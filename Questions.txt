@@ -1,0 +1,39 @@
+# 1. Create a base class University. Derive Student and Teacher from it. 
+#    Then create TeachingAssistant that inherits from both Student and Teacher 
+#    and implements methods for studying, teaching, and assisting.
+
+# 2. Create a base class Vehicle. Derive Car and Boat from it. 
+#    Then create AmphibiousVehicle that inherits from both Car and Boat 
+#    and shows land and water transportation.
+
+# 3. Create a base class Device. Derive Camera and Phone from it. 
+#    Then create SmartGadget that inherits from both Camera and Phone 
+#    and performs multitasking operations.
+
+# 4. Create a base class Person. Derive Dancer and Singer from it. 
+#    Then create Performer that inherits from both Dancer and Singer 
+#    and performs on stage.
+
+# 5. Create a base class Company. Derive Programmer and Tester from it. 
+#    Then create SoftwareEngineer that inherits from both Programmer and Tester 
+#    and handles complete software development.
+
+# 6. Create a base class Bank. Derive SavingsAccount and LoanAccount from it. 
+#    Then create Customer that inherits from both SavingsAccount and LoanAccount 
+#    and manages finances.
+
+# 7. Create a base class Media. Derive Audio and Video from it. 
+#    Then create Multimedia that inherits from both Audio and Video 
+#    and plays all types of media.
+
+# 8. Create a base class School. Derive SportsStudent and MusicStudent from it. 
+#    Then create AllRounder that inherits from both SportsStudent and MusicStudent 
+#    and performs multiple talents.
+
+# 9. Create a base class OnlinePlatform. Derive Buyer and Seller from it. 
+#    Then create MarketplaceUser that inherits from both Buyer and Seller 
+#    and performs trading.
+
+# 10. Create a base class Transport. Derive BusService and TrainService from it. 
+#     Then create SmartTransport that inherits from both BusService and TrainService 
+#     and controls both services.
