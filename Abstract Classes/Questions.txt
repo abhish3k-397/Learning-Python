@@ -1,0 +1,21 @@
+# ABSTRACTION OOPS PRACTICE QUESTIONS IN PYTHON
+
+# 1. Create an abstract class Animal with abstract method sound() and implement it in Dog class.
+
+# 2. Create an abstract class Shape with abstract method area() and implement it in Rectangle class.
+
+# 3. Create an abstract class Bank with abstract method interest_rate() and implement it in SBI class.
+
+# 4. Create an abstract class Vehicle with abstract method speed() and implement it in Car class.
+
+# 5. Create an abstract class Employee with abstract method salary() and implement it in Developer class.
+
+# 6. Create an abstract class Payment with abstract method pay(amount) and implement it in UPI class.
+
+# 7. Create an abstract class Mobile with abstract method features() and implement it in Samsung class.
+
+# 8. Create an abstract class Course with abstract method duration() and implement it in PythonCourse class.
+
+# 9. Create an abstract class Food with abstract method price() and implement it in Pizza class.
+
+# 10. Create an abstract class Electronics with abstract method warranty() and implement it in Laptop class.
